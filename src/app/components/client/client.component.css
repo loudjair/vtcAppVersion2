@@ -1,0 +1,14 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .form-control {
+    width: 100%;
+  }
+  mat-form-field,
+   .button-connection  {
+    width: 500px;
+  }  

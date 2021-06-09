@@ -52,6 +52,7 @@
   
   .banner .banner-image {
     position: relative;
+    width: 100%;
   }
   
   .banner .banner-content {
